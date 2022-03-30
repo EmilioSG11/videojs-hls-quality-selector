@@ -1,3 +1,10 @@
+<a name="1.1.5"></a>
+## [1.1.5](https://github.com/eban5/videojs-hls-quality-selector/compare/v1.1.4...v1.1.5) (2022-03-30)
+
+### Bug Fixes
+
+* Hide levels with 0 or undefined height ([43a24b0](https://github.com/eban5/videojs-hls-quality-selector/commit/43a24b0))
+
 <a name="1.1.4"></a>
 ## [1.1.4](https://github.com/chrisboustead/videojs-hls-quality-selector/compare/v1.1.3...v1.1.4) (2020-10-07)
 
