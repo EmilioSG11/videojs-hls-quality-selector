@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/@eban5%2Fvideojs-hls-quality-selector.svg)](https://badge.fury.io/js/@eban5%2Fvideojs-hls-quality-selector)
+
 # videojs-hls-quality-selector
 
 This repository is a fork of https://github.com/chrisboustead/videojs-hls-quality-selector
