@@ -10,7 +10,7 @@ https://github.com/eban5/videojs-hls-quality-selector
 ## Description
 
 Adds a quality selector menu for HLS sources played in videojs.  
-Requires `videojs-contrib-quality-levels` plugins.
+
 
 Any HLS manifest with multiple playlists/renditions should be selectable from within the added control.  
 
