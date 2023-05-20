@@ -6,6 +6,8 @@ This repository is a fork of https://github.com/chrisboustead/videojs-hls-qualit
 https://github.com/eban5/videojs-hls-quality-selector
 
 **Note:** Fork compatible for Video.JS 8.x.
+https://cdn.jsdelivr.net/gh/EmilioSG11/videojs-hls-quality-selector@main/dist/videojs-hls-quality-selector.js
+
 
 ## Description
 
