@@ -59,7 +59,6 @@
   "license": "MIT",
   "vjsstandard": {
     "ignore": [
-      "dist",
       "docs",
       "test/dist",
       "test/karma.conf.js"
