@@ -204,7 +204,7 @@ class HlsQualitySelectorPlugin {
       {componentClass: 'qualitySelector'},
       this.config.placementIndex || placementIndex);
 
-    concreteButtonInstance.addClass('vjs-quality-selector');
+    concreteButtonInstance.addClass('vjs-hls-quality-selector');
     if (!this.config.displayCurrentQuality) {
       const icon = ` ${this.config.vjsIconClass || 'vjs-icon-hd'}`;
 
